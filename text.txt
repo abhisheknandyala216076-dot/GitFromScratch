@@ -1,1 +1,3 @@
 Hello Git! This is my first file.
+Today I learned git show and git log.
+Learning Git is interesting.
